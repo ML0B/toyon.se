@@ -1,0 +1,4 @@
+baseURL = 'https://toyon.se/'
+languageCode = 'en-us'
+title = 'Toyon News & Blog'
+theme = 'ananke'
