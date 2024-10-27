@@ -1,5 +1,5 @@
 title = "Toyon Free News"
-baseURL = "https://toyon.se"
+baseURL = "https://toyon-se.pages.dev"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
